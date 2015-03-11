@@ -1,0 +1,10 @@
+{
+	"shell-version": ["3.6", "3.8", "3.10", "3.12", "3.14"],
+	"uuid": "syncthing-indicator@zjyto.net",
+	"name": "Syncthing Indicator",
+	"description": "Monitor syncthing",
+	"url": "",
+	"gettext-domain": "syncthing-indicator",
+	"settings-schema": "org.gnome.shell.extensions.syncthing-indicator",
+	"version" : "0.1"
+}
