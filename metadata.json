@@ -3,7 +3,7 @@
 	"uuid": "syncthing-indicator@zjyto.net",
 	"name": "Syncthing Indicator",
 	"description": "Monitor syncthing",
-	"url": "",
+	"url": "https://github.com/gdetrez/syncthing-indicator",
 	"gettext-domain": "syncthing-indicator",
 	"settings-schema": "org.gnome.shell.extensions.syncthing-indicator",
 	"version" : "0.1"
